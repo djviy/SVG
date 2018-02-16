@@ -2,7 +2,7 @@
 
 ![Adobe Illustrator logo](https://github.com/djviy/SVG/blob/master/images/icon-logo-illustrator.png "Illustrator logo")
 
-В Adobe Illustrator существует 3 способоа сохранения SVG. Каждый способ имеет свои настройки.
+В Adobe Illustrator существует 3 способа сохранения SVG. Каждый способ имеет свои настройки.  
 [вставить картинки]
 
 ## File > Export > Export As...  (Оптимальный способ)
